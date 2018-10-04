@@ -1,0 +1,2 @@
+class ErrorAlIntentarGuardar(Exception):
+    pass
